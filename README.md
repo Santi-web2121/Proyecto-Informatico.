@@ -1,2 +1,3 @@
 # Proyecto-Informatico.
-Hecho con Benjamin Segade
+Hecho por Santiago Cabezas y Benjamin Segade
+
